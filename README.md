@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Eduardo Borges de Souza
+Matricula: 890309
 
 ## Tela de inspeção com navegador
-
+![Inspeção](inspecao_rede.jpg)
 
 ## Tela de projeto no Replit
-
+![ReplitHelloWord](riplit.hello_word.jpg)
